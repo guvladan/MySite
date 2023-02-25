@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[31],{90:function(t,e,n){"use strict";n.d(e,"a",(function(){return u})),n.d(e,"b",(function(){return a}));var r=n(3);function u(){return document.querySelector('[data-target="search-results-main-wrap"]').getAttribute("data-no-results")}function a(t){return Object(r.X)(t).toLowerCase().replace(/[^a-zA-Z0-9 ]/g,"")}}}]);
+//# sourceMappingURL=related~resources-show~searc~beaa6743-10639339f57dc1e2e58e.chunk.js.map
